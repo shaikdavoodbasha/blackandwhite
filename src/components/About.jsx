@@ -67,11 +67,11 @@ export default function About() {
           <div className="space-y-8">
             {/* Main Paragraph with Typewriter Effect */}
             <div className="overflow-hidden">
-              <p className="text-lg md:text-xl lg:text-2xl leading-relaxed text-white/90 font-light opacity-0 animate-slideInUp animation-delay-500">
+              {/* <p className="text-lg md:text-xl lg:text-2xl leading-relaxed text-white/90 font-light opacity-0 animate-slideInUp animation-delay-500">
                 I'm a passionate 2nd-year Computer Science student dedicated to 
                 mastering the fundamentals of software engineering through 
                 continuous learning and practical application.
-              </p>
+              </p> */}
             </div>
             
             {/* Animated Stats */}
